@@ -1,5 +1,9 @@
-<h1 align="center">Olá! 👋 Eu sou o Vinicius Ribeiro</h1>
-<h3 align="center">Estudante de Ciência da Computação na UNIFAL-MG 🎓</h3>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&theme=cobalt" />
+  <p align="center" style="margin-top: 80px;">
+  <h1>Olá! 👋 Eu sou o Vinicius Ribeiro</h1>
+  <h3>Estudante de Ciência da Computação na UNIFAL-MG 🎓</h3>
+</div>
 
 <br>
 
@@ -9,15 +13,8 @@
 
 <br>
 
-## 💡 Propósito
-<p align="center">
-  <i>"Transformando ideias em soluções tecnológicas que moldam o futuro."</i>
-</p>
-
-<br>
-
 ## 💻 Tecnologias & Ferramentas
-<div align="center">
+<div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,c,mysql,git,linux&perline=9" />
   </a>
@@ -25,19 +22,11 @@
 
 ## 📊 Minhas Estatísticas
 
-<div align="center">
-  <a href="https://github.com/viniciusjhu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjhu&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjhu&layout=compact&langs_count=7&theme=onedark"/>
-  </a>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=viniciusjhu&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=viniciusjhu&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark)
 
 ## 📫 Como me encontrar
-<p align="left">
-<a href="mailto:vinicius.carmo@sou.unifal-mg.edu.br" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-</p>
+<a href="mailto:vinicius.carmo@sou.unifal-mg.edu.br"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=56&reverseBackground=true&link=mailto%3Avinicius.carmo%40sou.unifal-mg.edu.br" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/viniciusjhu/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=56&reverseBackground=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fviniciusjhu%2F" alt="linkedin" /></a>
+
+---
+<p> ⭐ "Transformando ideias em soluções tecnológicas que moldam o futuro" </p>
